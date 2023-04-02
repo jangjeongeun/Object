@@ -1,0 +1,15 @@
+body { margin: 0; padding: 0; height: 1500px; } 
+
+#bottom {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  transition: all 1s ease-in-out;
+}
+
+#bottom > img{
+  width: 1300px;
+  display: inline-block;
+}
+
